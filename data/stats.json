@@ -1,0 +1,260 @@
+{
+  "total_questions": 869,
+  "sample_questions": 35,
+  "real_exam_questions": 834,
+  "year_range": "2019-2024",
+  "exam_years": [
+    2022,
+    2023,
+    2024
+  ],
+  "by_year": {
+    "2024": 259,
+    "2023": 215,
+    "2022": 377,
+    "2021": 6,
+    "2020": 6,
+    "2019": 6
+  },
+  "by_subject": {},
+  "by_type": {
+    "single_choice": 412,
+    "multi_choice": 376,
+    "indefinite_choice": 81
+  },
+  "by_difficulty": {
+    "medium": 536,
+    "easy": 240,
+    "hard": 93
+  },
+  "by_paper": {
+    "public_law": 449,
+    "private_law": 420
+  },
+  "by_source": {
+    "示范题目": 35,
+    "2022年客观题回忆版": 371,
+    "2023年客观题回忆版": 209,
+    "2024年客观题回忆版": 254
+  },
+  "subject_details": {
+    "civil_law": {
+      "name": "民法",
+      "count": 168,
+      "by_year": {
+        "2022": 72,
+        "2023": 37,
+        "2024": 59
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 89
+    },
+    "criminal_law": {
+      "name": "刑法",
+      "count": 153,
+      "by_year": {
+        "2024": 42,
+        "2023": 45,
+        "2022": 48,
+        "2021": 6,
+        "2020": 6,
+        "2019": 6
+      },
+      "has_answer": 35,
+      "has_analysis": 35,
+      "has_kp": 130
+    },
+    "criminal_procedure": {
+      "name": "刑事诉讼法",
+      "count": 106,
+      "by_year": {
+        "2022": 42,
+        "2023": 23,
+        "2024": 41
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 52
+    },
+    "civil_procedure": {
+      "name": "民事诉讼法（含仲裁制度）",
+      "count": 99,
+      "by_year": {
+        "2022": 50,
+        "2023": 24,
+        "2024": 25
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 20
+    },
+    "administrative_law": {
+      "name": "行政法与行政诉讼法",
+      "count": 73,
+      "by_year": {
+        "2022": 37,
+        "2023": 20,
+        "2024": 16
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 23
+    },
+    "commercial_law": {
+      "name": "商法",
+      "count": 65,
+      "by_year": {
+        "2022": 32,
+        "2023": 16,
+        "2024": 17
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 25
+    },
+    "constitutional_law": {
+      "name": "宪法",
+      "count": 30,
+      "by_year": {
+        "2022": 16,
+        "2023": 7,
+        "2024": 7
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 18
+    },
+    "ip_law": {
+      "name": "知识产权法",
+      "count": 28,
+      "by_year": {
+        "2022": 14,
+        "2023": 5,
+        "2024": 9
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 0
+    },
+    "jurisprudence": {
+      "name": "法理学",
+      "count": 26,
+      "by_year": {
+        "2022": 12,
+        "2023": 7,
+        "2024": 7
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 0
+    },
+    "economic_law": {
+      "name": "经济法",
+      "count": 23,
+      "by_year": {
+        "2022": 15,
+        "2023": 3,
+        "2024": 5
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 11
+    },
+    "judicial_system": {
+      "name": "司法制度和法律职业道德",
+      "count": 21,
+      "by_year": {
+        "2022": 7,
+        "2023": 7,
+        "2024": 7
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 3
+    },
+    "international_economic_law": {
+      "name": "国际经济法",
+      "count": 21,
+      "by_year": {
+        "2022": 5,
+        "2023": 7,
+        "2024": 9
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 12
+    },
+    "labor_law": {
+      "name": "劳动与社会保障法",
+      "count": 18,
+      "by_year": {
+        "2022": 7,
+        "2023": 7,
+        "2024": 4
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 11
+    },
+    "public_international_law": {
+      "name": "国际法",
+      "count": 14,
+      "by_year": {
+        "2022": 8,
+        "2023": 4,
+        "2024": 2
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 1
+    },
+    "xjp_法治思想": {
+      "name": "习近平法治思想",
+      "count": 12,
+      "by_year": {
+        "2022": 5,
+        "2023": 2,
+        "2024": 5
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 0
+    },
+    "legal_history": {
+      "name": "中国法律史",
+      "count": 8,
+      "by_year": {
+        "2022": 5,
+        "2023": 1,
+        "2024": 2
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 3
+    },
+    "private_international_law": {
+      "name": "国际私法",
+      "count": 3,
+      "by_year": {
+        "2022": 2,
+        "2024": 1
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 1
+    },
+    "environmental_law": {
+      "name": "环境资源法",
+      "count": 1,
+      "by_year": {
+        "2024": 1
+      },
+      "has_answer": 0,
+      "has_analysis": 0,
+      "has_kp": 0
+    }
+  },
+  "knowledge_points_total": 890,
+  "subjects_count": 18
+}
